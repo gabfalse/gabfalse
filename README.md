@@ -31,17 +31,17 @@ I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logi
 ## 📊 GitHub Stats
 <div align="center">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shige15&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shige15&layout=compact&theme=tokyonight)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabfalse&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabfalse&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
 ## 🌐 Connect With Me
-- Portfolio: [Coming Soon 🚧]  
-- LinkedIn: [linkedin.com/in/gabriel](#)  
-- GitHub Projects: [github.com/Shige15](https://github.com/Shige15)
+- Portfolio: [gabriel-mohammad.vercel.app]  
+- LinkedIn: [[linkedin.com/in/gabriel](https://www.linkedin.com/in/gabriel-mohammad-alfarez-fahlepi-9144362bb/)](#)  
+- GitHub Projects: [github.com/gabfalse](https://github.com/gabfalse)
 
 ---
 
