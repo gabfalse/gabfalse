@@ -1,24 +1,48 @@
-### Hello, Gabriel Here! Nice to Meet You 👋
-
-<!--
-**Shige15/shige15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello, I'm Gabriel! 👋
 
 ![Gabriel Banner](/img/banner-gabriel.png)
 
-- 🔭 I’m currently working on [**RUTEE**](https://rutee.id)
-- 👯 I’m looking to collaborate on **React Project**
-- 📫 How to reach me: gabrielalfarez14@gmail.com
+## 🚀 About Me
+I'm a **Web Developer** passionate about building interactive and user-friendly applications.  
+I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logic with creativity to deliver impactful results.  
 
-![Gym Time](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI3dG4yNDNpZjUwZ3Y1Y3Z0NXZwOTk1c3libm40cjZxZGFhamFsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjitqVvzf8l86wVqR5/giphy.gif)
+- 🔭 Currently working on [**RUTEE**](https://rutee.id)  
+- 👯 Open to collaborate on **React.js & Frontend Projects**  
+- 📫 Reach me at: **gabrielalfarez14@gmail.com**  
+- 🌱 Exploring: **Fullstack Development, UI/UX, and AI-driven apps**  
+
+---
+
+## 🛠 Tech Stack
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shige15&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shige15&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+- Portfolio: [Coming Soon 🚧]  
+- LinkedIn: [linkedin.com/in/gabriel](#)  
+- GitHub Projects: [github.com/Shige15](https://github.com/Shige15)
+
+---
+
+⚡ *“Building reliable web solutions and creative designs that speak louder than words.”*  
