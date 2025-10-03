@@ -2,14 +2,13 @@
 
 ![Gabriel Banner](/img/banner-gabriel.png)
 
-## 🚀 About Me
+## About Me 
 I'm a **Web Developer** passionate about building interactive and user-friendly applications.  
 I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logic with creativity to deliver impactful results.  
-
-- 🔭 Currently working on [**RUTEE**](https://rutee.id)  
-- 👯 Open to collaborate on **React.js & Frontend Projects**  
-- 📫 Reach me at: **gabrielalfarez14@gmail.com**  
-- 🌱 Exploring: **Fullstack Development, UI/UX, and AI-driven apps**  
+  
+- Open to collaborate on **React.js & Frontend Projects**  
+- Reach me at: **gabrielalfarez14@gmail.com**  
+- Exploring: **Fullstack Development, UI/UX, and AI-driven apps**  
 
 ---
 
@@ -40,7 +39,7 @@ I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logi
 
 ## 🌐 Connect With Me
 - Portfolio: [Portfolio Website](https://gabriel-mohammad.vercel.app)
-- LinkedIn: [[linkedin](https://www.linkedin.com/in/gabriel-mohammad-alfarez-fahlepi-9144362bb/)]  
+- LinkedIn: [linkedin](https://www.linkedin.com/in/gabriel-mohammad-alfarez-fahlepi-9144362bb/)  
 - GitHub Projects: [github](https://github.com/gabfalse)
 
 ---
