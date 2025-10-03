@@ -39,9 +39,9 @@ I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logi
 ---
 
 ## 🌐 Connect With Me
-- Portfolio: [gabriel-mohammad.vercel.app]  
-- LinkedIn: [[linkedin.com/in/gabriel](https://www.linkedin.com/in/gabriel-mohammad-alfarez-fahlepi-9144362bb/)](#)  
-- GitHub Projects: [github.com/gabfalse](https://github.com/gabfalse)
+- Portfolio: [Portfolio Website](gabriel-mohammad.vercel.app)
+- LinkedIn: [[linkedin](https://www.linkedin.com/in/gabriel-mohammad-alfarez-fahlepi-9144362bb/)](#)  
+- GitHub Projects: [github](https://github.com/gabfalse)
 
 ---
 
