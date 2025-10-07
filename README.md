@@ -39,7 +39,7 @@ I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logi
 ## 📝 Blog & Writing
 <div>
 I share insights, guides, and thought pieces about web development, and career growth in tech.
-<br>
+
 • How the Web Actually Works: A Beginner’s Guide to HTML and the Internet Behind It [VIEW](https://medium.com/@gabrielalfarez14/how-the-web-actually-works-a-beginners-guide-to-html-and-the-internet-behind-it-898cbbc4023e)
 
 </div>
