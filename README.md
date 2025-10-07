@@ -36,7 +36,7 @@ I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logi
 </div>
 
 
-##📝 Blog & Writing
+## 📝 Blog & Writing
 <div>
 I share insights, guides, and thought pieces about web development, and career growth in tech.
 
