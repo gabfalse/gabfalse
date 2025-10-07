@@ -44,6 +44,8 @@ I share insights, guides, and thought pieces about web development, and career g
 
 </div>
 
+---
+
 ## 🌐 Connect With Me
 - Portfolio: [Portfolio Website](https://gabriel-mohammad.vercel.app)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/gabriel-mohammad-alfarez-fahlepi-9144362bb/)  
