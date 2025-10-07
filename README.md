@@ -35,6 +35,7 @@ I also work on **Data Annotation** and **UI/UX & Graphic Design**, blending logi
 
 </div>
 
+---
 
 ## 📝 Blog & Writing
 <div>
