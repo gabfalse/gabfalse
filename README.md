@@ -1,4 +1,5 @@
 # Hey there, I'm **Gabriel!**
+![Gabriel Banner](/img/banner.png)
 
 ## About Me  
 I’m a **Web Developer** who loves crafting **interactive, user-centered applications** that feel intuitive and visually appealing.  
