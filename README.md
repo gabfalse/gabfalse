@@ -37,8 +37,6 @@ I bridge the gap between **design and development**, combining logic, aesthetics
 ## 📊 GitHub Insights
 <div align="center">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabfalse&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabfalse&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabfalse&theme=tokyonight)
 
 </div>
@@ -47,11 +45,11 @@ I bridge the gap between **design and development**, combining logic, aesthetics
 
 ---
 
-## ✍️ Writing & Knowledge Sharing
+## ✍️ Knowledge Sharing
 I love writing about how the web *really works*, breaking down complex ideas into something relatable and fun.  
 You’ll find me sharing practical tips and thought pieces for developers of all levels.
 
-📚 **Featured Articles**  
+📚 **Blog and Article**  
 • [How the Web Actually Works: A Beginner’s Guide to HTML and the Internet Behind It](https://medium.com/@gabrielalfarez14/how-the-web-actually-works-a-beginners-guide-to-html-and-the-internet-behind-it-898cbbc4023e)  
 • [HTML Tags You’ll Use Every Day (and a Few Hidden Gems)](https://medium.com/@gabrielalfarez14/html-tags-youll-use-every-day-and-a-few-hidden-gems-ee060cefd38e)
 
@@ -77,6 +75,6 @@ You’ll find me sharing practical tips and thought pieces for developers of all
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=gabfalse&style=for-the-badge&color=blueviolet)  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61DAFB&size=22&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Gabriel+👋;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Let's+build+something+amazing!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61DAFB&size=22&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Gabriel+🔥;Frontend+Developer+%7C+UI%2FUX+Enthusiast;Let's+build+something+amazing!)
 
 </div>
