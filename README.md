@@ -1,8 +1,6 @@
-# 👋 Hey there, I'm **Gabriel!**
+# Hey there, I'm **Gabriel!**
 
-![Gabriel Banner](/img/banner-gabriel.png)
-
-## 💡 About Me  
+## About Me  
 I’m a **Web Developer** who loves crafting **interactive, user-centered applications** that feel intuitive and visually appealing.  
 I bridge the gap between **design and development**, combining logic, aesthetics, and usability to bring ideas to life.
 
@@ -13,7 +11,7 @@ I bridge the gap between **design and development**, combining logic, aesthetics
 - **UI/UX Systems Thinking**  
 - **AI-powered Applications**
 
-📬 Reach me anytime at **gabrielalfarez14@gmail.com** — always open for collaboration and exciting challenges!
+📬 Reach me anytime at **gabrielalfarez14@gmail.com**, always open for collaboration and exciting challenges!
 
 ---
 
@@ -41,7 +39,7 @@ I bridge the gap between **design and development**, combining logic, aesthetics
 
 </div>
 
-> “Clean code and creative UI — that’s my favorite combo.”
+> “Clean code and creative UI, that’s my favorite combo.”
 
 ---
 
