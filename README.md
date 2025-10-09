@@ -49,8 +49,9 @@ I love writing about how the web *really works*, breaking down complex ideas int
 You’ll find me sharing practical tips and thought pieces for developers of all levels.
 
 📚 **Blog and Article**  
-• [How the Web Actually Works: A Beginner’s Guide to HTML and the Internet Behind It](https://medium.com/@gabrielalfarez14/how-the-web-actually-works-a-beginners-guide-to-html-and-the-internet-behind-it-898cbbc4023e)  
-• [HTML Tags You’ll Use Every Day (and a Few Hidden Gems)](https://medium.com/@gabrielalfarez14/html-tags-youll-use-every-day-and-a-few-hidden-gems-ee060cefd38e)
+  • [How the Web Actually Works: A Beginner’s Guide to HTML and the Internet Behind It](https://medium.com/@gabrielalfarez14/how-the-web-actually-works-a-beginners-guide-to-html-and-the-internet-behind-it-898cbbc4023e)  
+  • [HTML Tags You’ll Use Every Day (and a Few Hidden Gems)](https://medium.com/@gabrielalfarez14/html-tags-youll-use-every-day-and-a-few-hidden-gems-ee060cefd38e)
+  • [CSS Basic, How To Make Your Website Look Alive](https://medium.com/@gabrielalfarez14/css-basics-how-to-make-your-website-look-alive-1adacdc3c09b)
 
 ✨ *Follow me on [Medium](https://medium.com/@gabrielalfarez14) for more developer insights.*
 
