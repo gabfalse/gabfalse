@@ -53,7 +53,8 @@ You’ll find me sharing practical tips and thought pieces for developers of all
   • [HTML Tags You’ll Use Every Day (and a Few Hidden Gems)](https://medium.com/@gabrielalfarez14/html-tags-youll-use-every-day-and-a-few-hidden-gems-ee060cefd38e) <br/>
   • [CSS Basic, How To Make Your Website Look Alive](https://medium.com/@gabrielalfarez14/css-basics-how-to-make-your-website-look-alive-1adacdc3c09b) <br>
   • [The Box Model Explained without Losing Your Mind](https://medium.com/@gabrielalfarez14/the-box-model-explained-without-losing-your-mind-d4a8270cfc5f)<br>
-  •[Flexbox And Grid, The Power Duo For Modern Layouts](https://medium.com/@gabrielalfarez14/flexbox-and-grid-the-power-duo-for-modern-layouts-7db5f42c7b00)<br>
+  • [Flexbox And Grid, The Power Duo For Modern Layouts](https://medium.com/@gabrielalfarez14/flexbox-and-grid-the-power-duo-for-modern-layouts-7db5f42c7b00)<br>
+  • [Responsive Design, Making Website Look Good Everywhere](https://medium.com/@gabrielalfarez14/responsive-design-making-websites-look-good-everywhere-84fea8511003)<br>
 
 ✨ *Follow me on [Medium](https://medium.com/@gabrielalfarez14) for more developer insights.*
 
