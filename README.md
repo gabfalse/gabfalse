@@ -55,6 +55,7 @@ You’ll find me sharing practical tips and thought pieces for developers of all
   • [The Box Model Explained without Losing Your Mind](https://medium.com/@gabrielalfarez14/the-box-model-explained-without-losing-your-mind-d4a8270cfc5f)<br>
   • [Flexbox And Grid, The Power Duo For Modern Layouts](https://medium.com/@gabrielalfarez14/flexbox-and-grid-the-power-duo-for-modern-layouts-7db5f42c7b00)<br>
   • [Responsive Design, Making Website Look Good Everywhere](https://medium.com/@gabrielalfarez14/responsive-design-making-websites-look-good-everywhere-84fea8511003)<br>
+  • [JavaScript Fundamentals You'll Actually Use](https://medium.com/@gabrielalfarez14/javascript-fundamentals-youll-actually-use-58859a6d9361)<br>
 
 ✨ *Follow me on [Medium](https://medium.com/@gabrielalfarez14) for more developer insights.*
 
