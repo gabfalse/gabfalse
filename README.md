@@ -57,6 +57,8 @@ You’ll find me sharing practical tips and thought pieces for developers of all
   • [Responsive Design, Making Website Look Good Everywhere](https://medium.com/@gabrielalfarez14/responsive-design-making-websites-look-good-everywhere-84fea8511003)<br/>
   • [JavaScript Fundamentals You'll Actually Use](https://medium.com/@gabrielalfarez14/javascript-fundamentals-youll-actually-use-58859a6d9361)<br/>
   • [From Static To Dynamic, Making Your Website Interactive With JavaScript](https://medium.com/@gabrielalfarez14/from-static-to-dynamic-making-your-website-interactive-with-javascript-139f6b83358a)<br/>
+  • [Understanding the DOM, The Secret Language Between HTML and JavaScript](https://medium.com/@gabrielalfarez14/understanding-the-dom-the-secret-language-between-html-and-javascript-43625bfb31d2)<br/>
+
 
 ✨ *Follow me on [Medium](https://medium.com/@gabrielalfarez14) for more developer insights.*
 
