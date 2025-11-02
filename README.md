@@ -58,6 +58,7 @@ You’ll find me sharing practical tips and thought pieces for developers of all
   • [JavaScript Fundamentals You'll Actually Use](https://medium.com/@gabrielalfarez14/javascript-fundamentals-youll-actually-use-58859a6d9361)<br/>
   • [From Static To Dynamic, Making Your Website Interactive With JavaScript](https://medium.com/@gabrielalfarez14/from-static-to-dynamic-making-your-website-interactive-with-javascript-139f6b83358a)<br/>
   • [Understanding the DOM, The Secret Language Between HTML and JavaScript](https://medium.com/@gabrielalfarez14/understanding-the-dom-the-secret-language-between-html-and-javascript-43625bfb31d2)<br/>
+  • [JavaScript DOM Manipulation, Turning Static Pages Into Interactive Magic](https://medium.com/@gabrielalfarez14/javascript-dom-manipulation-turning-static-pages-into-interactive-magic-53191a3ea6d9) <br/>
 
 
 ✨ *Follow me on [Medium](https://medium.com/@gabrielalfarez14) for more developer insights.*
